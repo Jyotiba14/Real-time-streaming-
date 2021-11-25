@@ -1,0 +1,2 @@
+# Real-time-streaming-
+ower BI real-time streaming, you can stream data and update dashboards in real-time. Any visual or dashboard that can be created in Power BI can also be created to display and update real-time data and visuals. an’t create a streaming dataset in Power BI Desktop, but can connect to a streaming dataset created in the Power BI Service.three categories of real-time datasets which are designed for display on real-time dashboards
