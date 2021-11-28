@@ -16,8 +16,10 @@ streaming datasets allows external data sources to Push data to Power BI through
 # 3) PubNub streaming Datasets
 PubNub provides an SDK based on which you can implement Real Time communication platforms. Since this is a separate infrastructure as a service product, Power BI does not ingest any data and only displays the data by accessing the streams. PubNub will allow users to work around the throughput and request data size limits imposed by Power BI.
 
-In here we will be using the pubnub streaming dataset to create a report and dashboard . 
+In here we will be using the pubnub streaming dataset to create a report and dashboard .
+
 pubnub streaming datasets link - https://www.pubnub.com/developers/realtime-data-streams/
+
 Dashboard link -  https://app.powerbi.com/groups/9a727f96-25dd-415a-8d86-82503e2d7d3e/dashboards/0d74bed4-0c8c-482a-b375-d9c184bada14
 
 so lets rock and roll 
