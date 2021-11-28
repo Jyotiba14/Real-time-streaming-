@@ -1,4 +1,4 @@
-# Real-time-streaming-
+# Real time streaming
 In power BI streaming, we can stream data and update dashboards in real-time. Any visual or dashboard that can be created in Power BI can also be created to display and update real-time data and visuals. The devices and sources of streaming data can be factory sensors, social media sources, service usage metrics, or many other time-sensitive data collectors or transmitters.
 # Need to Implement Power BI Real Time Streaming
 Power BI is primarily a decision-making tool that helps to extract valuable insights from the data. In the new age of analytics-driven decision-making, the one who has the latest data typically wins the market. There are also specific IOT based requirements where Real Time data has to be analyzed. In all these cases, Power BI’s Real Time data Streaming capability is a boon for organizations.
